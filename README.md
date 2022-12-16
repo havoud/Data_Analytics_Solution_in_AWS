@@ -15,4 +15,4 @@ This architecture has interactions between these services in AWS:
 
 The following architectural diagram shows the flow that I created:
 
-![Architecture](https://github.com/hameddavoudabadi/Data_Analytics_Solution_in_AWS/png/architecture.png "Architecture")
+![Architecture](https://github.com/hameddavoudabadi/Data_Analytics_Solution_in_AWS/blob/main/png/architecture.png "Architecture")
